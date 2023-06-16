@@ -41,6 +41,7 @@ const colors = new Array(
     "red", "#70ff70", "pink", "grey", "lightblue"
 )
 
+document.getElementById("start").onclick = (e) => document.getElementById("start").parentElement.remove()
 const container = document.querySelector(".container");
 const template = document.getElementsByTagName("template")[0];
 const item = template.content.querySelector(".wrapper")
