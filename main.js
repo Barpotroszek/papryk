@@ -23,7 +23,18 @@ const lista = [
 "zatajony",
 "zwierzakowy",
 "świąteczno-elegancki",
-"świąteczny",
+"świąteczny","agent.jpeg",
+"czapkowy.jpeg",
+"domówkowy.jpeg",
+"dreptający.jpeg",
+"głoszący.jpeg",
+"jakby malowany.jpeg",
+"pozujący.jpeg",
+"silny.jpeg",
+"skrzywiony.jpeg",
+"z idolem.jpeg",
+"zdziwiony.jpeg",
+"śpiący.jpeg",
 ]
 
 const container = document.querySelector(".container");
